@@ -1,0 +1,21 @@
+# Core HF + quantization + LoRA
+transformers>=4.48.3
+accelerate>=0.21.0
+bitsandbytes>=0.37.0
+peft>=0.7.1
+
+# RL Trainer
+trl>=0.5.1
+
+# Data & utilities
+datasets>=2.13.1
+huggingface_hub>=0.18.0
+tqdm>=4.66.1
+pandas>=2.1.0
+scikit-learn>=1.2.2
+
+# Notebook
+jupyterlab>=4.0.0
+
+# PyTorch
+torch>=2.0.0
