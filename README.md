@@ -1,6 +1,6 @@
 
 
-# SFTA: LLM-Based Bug assignment
+# SFTA: LLM-based issue assignment
 
 This repository implements SFTA (Supervised Fine-Tuned Assigner), a system that fine-tunes a large language model for automated issue assignmnt and developer recommendation.
 It includes dataset preparation scripts, a Jupyter notebook for fine-tuning and evaluation, and configuration files for reproducible experiments.
