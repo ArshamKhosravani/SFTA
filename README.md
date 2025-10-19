@@ -8,7 +8,7 @@ It includes dataset preparation scripts, a Jupyter notebook for fine-tuning and 
 ---
 
 
-## ⚙️ Installation
+##  Installation
 
 ```bash
 git clone https://github.com/<username>/SFTA.git
