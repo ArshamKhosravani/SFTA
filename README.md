@@ -24,7 +24,7 @@ pip install -r requirements.txt
 
 ---
 
-# Data Preparation
+# Data 
 
 datasets could be downloaded in: https://github.com/ArshamKhosravani/test_BugTriage/tree/master/dl4ba-main/datasets
 
