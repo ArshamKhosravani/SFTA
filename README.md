@@ -61,4 +61,3 @@ pandas>=2.1.0
 tqdm>=4.66.1
 
 
-Would you like me to append a short **“Training Configuration Example”** block (with sample hyperparameters like learning rate, batch size, epochs) at the end of the README?
